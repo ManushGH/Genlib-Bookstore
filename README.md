@@ -1,8 +1,3 @@
-#contributions
-Manush Shah - HTML, CSS, JAVASCRIPT
-Vipul Shinde - HTML, CSS
-Kushajveer Singh - Database, Django
-
 # online-bookstore-system
 
 ```
@@ -34,7 +29,10 @@ The server will be at "localhost:8000".
 
 Goto "localhost:8000/admin" and enter credentials to access admin page. Here you can check all the values stored in the database.
 
-#Contributions
+## Contributions
+
 Manush Shah - HTML, CSS, JAVASCRIPT
+
 Vipul Shinde - HTML, CSS
+
 Kushajveer Singh - Django
