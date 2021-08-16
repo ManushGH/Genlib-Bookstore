@@ -31,8 +31,8 @@ Goto "localhost:8000/admin" and enter credentials to access admin page. Here you
 
 ## Contributions
 
-Manush Shah - HTML, CSS, JAVASCRIPT
+Manush Shah - HTML, CSS, JavaScript
 
 Vipul Shinde - HTML, CSS
 
-Kushajveer Singh - Django
+Kushajveer Singh - Django/Python, HTML
